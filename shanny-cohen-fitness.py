@@ -50,7 +50,7 @@ page_header = '''<style>
       </div>
       <nav class="social_wrap">
         <a href="https://www.instagram.com/shannycohen_fitness/" target="_blank">Instagram</a>
-        <a href="" target="_blank">Twitter</a>
+        <a href="https://twitter.com/shannycohen_fit" target="_blank">Twitter</a>
         <a href="https://www.facebook.com/ShannyCohenAthletePage/timeline" target="_blank">Facebook</a>
       </nav><!-- . social_wrap - -->
     </div><!-- . top_wrap - -->
