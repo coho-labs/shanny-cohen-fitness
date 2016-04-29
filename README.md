@@ -1,3 +1,3 @@
 # shanny-cohen-fitness
 
-http://shannycohen.fitness
+https://shannycohen.fitness
